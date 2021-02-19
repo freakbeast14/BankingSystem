@@ -61,7 +61,7 @@ INSERT INTO `users` (`id`, `name`, `email`, `balance`) VALUES
 (6, 'ASHWIN', 'ashwin@gmail.com', 60000),
 (7, 'PANT', 'pant@gmail.com', 35000),
 (8, 'SHAMI', 'shami@gmail.com', 40000),
-(9, 'PANDYA', 'jonas@gmail.com', 30000),
+(9, 'PANDYA', 'pandya@gmail.com', 30000),
 (10, 'GILL', 'gill@gmail.com', 30000);
 --
 -- Indexes for dumped tables
