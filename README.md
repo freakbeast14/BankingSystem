@@ -32,7 +32,7 @@ Effortlessly update customer details after transactions. Whether it's a change o
 
 To set up and run the Basic Banking System on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/freakbeast14/sparksfoundation`
+1. Clone the repository: `git clone https://github.com/freakbeast14/BankingSystem.git`
 2. Navigate to the project directory: `cd basic-banking-system`
 3. Import the provided MySQL database schema to set up the required tables.
 4. Configure the database connection in the PHP files with your database credentials.
